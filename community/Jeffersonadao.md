@@ -1,7 +1,7 @@
 # Olá, eu sou Jefferson Ferreira! 👋
 
 ## Sobre mim
-- 👨‍💻 Tenho 34 anos formado em Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Tenho 35 anos formado em Análise e Desenvolvimento de Sistemas.
 - 🌐 Apaixonado por tecnologia e sempre em busca de mais conhecimento.
 - 🎓 No momento, estou a procura uma vaga para aplicar o conhecimento que estou adquirindo.
 
